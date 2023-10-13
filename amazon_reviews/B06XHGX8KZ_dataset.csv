@@ -1,0 +1,51 @@
+item,title,rating,body
+'B06XHGX8KZ','Good product','4.0 out of 5 stars','{"clickstreamNexusMetricsConfig":{"actionType":"DISCOVERY","productId":"","eventOwner":"vsemetrics_playercards","schemaId":"clickstream.CustomerEvent.4","producerId":"vsemetrics_playercards","eventType":"IVEVideoView"},"clientPrefix":"vse_reviews_desktop_r1rx8d6k6exw52_1697144395876","closedCaptionsConfig":{"captionsOnTexts":{"en":"English (Automated)"},"captionsOffText":"Captions off","languageToLabelTexts":{"English":"English"}},"sushiMetricsConfig":{"isRobot":false,"clientId":"VSE-IN","videoAsinList":"","weblabIds":"","eventSource":"Player","sessionId":"257-2397547-9461609","refMarkers":"vse_reviews_desktop_R1RX8D6K6EXW52_1697144395876_ref","placementContext":"cr_inline_review","marketplaceId":"A21TJRUUN4KGV","isInternal":false,"endpoint":"https://unagi-eu.amazon.com/1/events/com.amazon.eel.vse.metrics.prod.events.test","requestId":"ZP6K7VM2FC2TJSN6QFVT","customerId":"0","sessionType":1},"mimeType":"application/x-mpegURL","nexusMetricsConfig":{"isInternal":false,"widgetMetricsSchemaId":"vse.VSECardsEvents.8","clientId":"VSE-IN","videoAsinList":"","weblabIds":"","eventSource":"Player","videoAsin":"R1RX8D6K6EXW52","producerId":"vsemetrics_playercards","refMarkers":"vse_reviews_desktop_R1RX8D6K6EXW52_1697144395876_ref","placementContext":"cr_inline_review","playerTSMMetricsSchemaId":"vse.VSECardsPlayerEvents.6"},"videoHeight":0,"videoWidth":0,"initialClosedCaptions":"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-eu-west-1-prod/closedCaptions/245bf361-646a-40f2-8d02-34f587b4f698.vtt","videoUrl":"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/a949e7e9-32ba-43d0-bd1c-6454bff59c7b/default.vertical.jobtemplate.hls.m3u8","metricsEmissionMethod":"sushi","awaConfig":{"useUpNextComponent":false,"clickstreamNexusMetricsConfig":{"actionType":"DISCOVERY","productId":"","eventOwner":"vsemetrics_playercards","schemaId":"clickstream.CustomerEvent.4","producerId":"vsemetrics_playercards","eventType":"IVEVideoView"},"initialVideo":"R1RX8D6K6EXW52","shouldPreload":true,"enableClickBasedAttribution":false,"isChromelessPlayer":false,"closedCaptionsConfig":{"captionsOnTexts":{"en":"English (Automated)"},"captionsOffText":"Captions off","languageToLabelTexts":{"English":"English"}},"isVideoImmersivePlayer":false,"metricsEmissionMethod":"sushi","skipInitialFocus":false,"playerSkin":"none","disabledViewIds":["replayHint"],"customerId":"0","containerId":"vse_reviews_desktop_r1rx8d6k6exw52_1697144395876-player-e55719c2-f783-40dd-8267-05139c7dee36","requestMetadata":{"marketplaceId":"A21TJRUUN4KGV","clientId":"VSE-IN","method":"cr_inline_review","requestId":"ZP6K7VM2FC2TJSN6QFVT","pageAsin":"","sessionId":"257-2397547-9461609"},"shouldLoop":false,"shouldDisableControls":false,"alwaysSetInitialVideo":true,"showPlayerCloseButton":false,"clientPrefix":"","useAutoplayFallback":false,"sushiMetricsConfig":{"isRobot":false,"clientId":"VSE-IN","videoAsinList":"","weblabIds":"","eventSource":"Player","sessionId":"257-2397547-9461609","refMarkers":"vse_reviews_desktop_R1RX8D6K6EXW52_1697144395876_ref","placementContext":"cr_inline_review","marketplaceId":"A21TJRUUN4KGV","isInternal":false,"endpoint":"https://unagi-eu.amazon.com/1/events/com.amazon.eel.vse.metrics.prod.events.test","requestId":"ZP6K7VM2FC2TJSN6QFVT","customerId":"0","sessionType":1},"ospLinkCode":"","showPosterImage":true,"languageCode":"en","version":"","nexusMetricsConfig":{"isInternal":false,"widgetMetricsSchemaId":"vse.VSECardsEvents.8","clientId":"VSE-IN","videoAsinList":"","weblabIds":"","eventSource":"Player","videoAsin":"R1RX8D6K6EXW52","producerId":"vsemetrics_playercards","refMarkers":"vse_reviews_desktop_R1RX8D6K6EXW52_1697144395876_ref","placementContext":"cr_inline_review","playerTSMMetricsSchemaId":"vse.VSECardsPlayerEvents.6"},"shouldStartMuted":false,"airyVersion":"VideoJS","languagePreferenceStrings":{},"enableInactiveFocus":true,"isReactFactory":false,"enableDelphiAttribution":false,"shouldAutoplay":false},"imageUrl":"https://m.media-amazon.com/images/I/51nlqk8ujqL._SY256._SY256.jpg","needPlayerFactory":false,"isMobile":false} Video Player is loading. Play Video Play Mute Current Time\xa00:00 / Duration\xa00:00 Loaded: 0% Stream Type\xa0LIVE Seek to live, currently behind liveLIVE Remaining Time\xa0-0:00 1x Playback Rate Chapters Chapters Descriptions descriptions off, selected Captions Captions off, selected Audio Track Fullscreen This is a modal window. No compatible source was found for this media. Good quality👍'
+'B06XHGX8KZ','Hard stuff','2.0 out of 5 stars','Very hard. Not so comfortable'
+'B06XHGX8KZ','Little heavy material for a belt','3.0 out of 5 stars',"It's ok product"
+'B06XHGX8KZ','Value for money','5.0 out of 5 stars','Best product in this price range. I have ordered this product for the second time.'
+'B06XHGX8KZ','Faltu','1.0 out of 5 stars','Hard plastic used..not good'
+'B06XHGX8KZ','Good to use','4.0 out of 5 stars','Size is fitting, thickness not as per expectation'
+'B06XHGX8KZ','nice quality','5.0 out of 5 stars','Very good quality and also worth the price'
+'B06XHGX8KZ','Ok','4.0 out of 5 stars','Ok'
+'B06XHGX8KZ','Good quality','4.0 out of 5 stars','Overall its good quality.'
+'B06XHGX8KZ','Good','4.0 out of 5 stars','Good'
+'B06XHGX8KZ','Nice','5.0 out of 5 stars','Very nice quality'
+'B06XHGX8KZ','Product quality','5.0 out of 5 stars','Good product quality'
+'B06XHGX8KZ','Looks worthy','4.0 out of 5 stars',"The product is good and it's delivered in perfect packing"
+'B06XHGX8KZ','Good','4.0 out of 5 stars','Good'
+'B06XHGX8KZ','Good leather','5.0 out of 5 stars','Fine leather'
+'B06XHGX8KZ','Product is goid','5.0 out of 5 stars','I have purchased a belt, and product is good'
+'B06XHGX8KZ','Fair quality fair price leather belt','5.0 out of 5 stars','Liked it, leather is soft and comfortable. Price is fair, certainly go for it'
+'B06XHGX8KZ','Value for money','5.0 out of 5 stars','Nice quality'
+'B06XHGX8KZ','Ok','4.0 out of 5 stars','Good'
+'B06XHGX8KZ','BEST QUALITY FOR THE PRICE , also reversible','5.0 out of 5 stars','A complete product , can go ahead to buy it , value for the price and excellent packaging, good for gifting also'
+'B06XHGX8KZ','Worst, one can get','1.0 out of 5 stars','Build quality, lock everything poor at this price point.'
+'B06XHGX8KZ','Very puer quality','1.0 out of 5 stars',"Don't buying anything"
+'B06XHGX8KZ','Nice product','5.0 out of 5 stars','Value for money'
+'B06XHGX8KZ','Nice','4.0 out of 5 stars','Good quality. exactly the same as shown in picture'
+'B06XHGX8KZ','Worth the money','5.0 out of 5 stars',"It's really good quality 👍"
+'B06XHGX8KZ','Belt','4.0 out of 5 stars','Good for the price'
+'B06XHGX8KZ','Good Quality','4.0 out of 5 stars','Very good'
+'B06XHGX8KZ','Quality','5.0 out of 5 stars',"It's very soft and good of quality. Size is also good"
+'B06XHGX8KZ','Good quality belt','5.0 out of 5 stars','A nice sturdy belt with good quality and dual colour. Thanks for something that was much needed.'
+'B06XHGX8KZ','Nice','5.0 out of 5 stars','Good product'
+'B06XHGX8KZ','Wrost','1.0 out of 5 stars','Sadkchap,chapri and cheap belt, similar kind of belt you ll get for 10 rs in Sarojini Nagar Market😄😄😄'
+'B06XHGX8KZ','Not good','3.0 out of 5 stars','Got defective product . . . . . . and not good one to go...not recommend .. .. .. .'
+'B06XHGX8KZ',"Beckle broken after wearing 2 day's",'1.0 out of 5 stars',"Beckle broken after wearing 2 day's"
+'B06XHGX8KZ','👍','5.0 out of 5 stars','Well packed and good quality'
+'B06XHGX8KZ','Okay','4.0 out of 5 stars','Good quality belt'
+'B06XHGX8KZ','Good product','5.0 out of 5 stars','Leather Quality is good 👍👍'
+'B06XHGX8KZ','Leather quality','4.0 out of 5 stars','I like the quality of the leather very much. The belt is worth for money.'
+'B06XHGX8KZ','Good','4.0 out of 5 stars','Ok'
+'B06XHGX8KZ','Quality','5.0 out of 5 stars','The Quality of the Product is Good'
+'B06XHGX8KZ','Very good quality in this price','5.0 out of 5 stars',"I liked the belt. It's stitching and finishing is very fine. Thickness is also good. Colours are good. Must buy"
+'B06XHGX8KZ','Good','5.0 out of 5 stars','Good'
+'B06XHGX8KZ','Buckle has sharp ages causing damage to the belt','1.0 out of 5 stars','Though the quality of material of both buckle and belt is good, belt has sharp edges, causing serious damage to the belt after using just four times, as can be seen in the photo I uploaded. That reduced the durability of the belt to nothing.'
+'B06XHGX8KZ','Waste Product','1.0 out of 5 stars','Duplicate product'
+'B06XHGX8KZ','Good quality belt','5.0 out of 5 stars','Good quality belt & value for money'
+'B06XHGX8KZ','Belt Quality','3.0 out of 5 stars','Ok product.'
+'B06XHGX8KZ','Thickness','5.0 out of 5 stars','Good!'
+'B06XHGX8KZ','Belt is good, material is hard than expected','3.0 out of 5 stars','Good'
+'B06XHGX8KZ','Looking good','5.0 out of 5 stars','I ordered the belt 2 days ago, delivered within 2 days, everything looks good, quality and size is good, if some extra holes are there it will be great, I will keep using it for now, and update the review after few days of usage.'
+'B06XHGX8KZ','Quality product','5.0 out of 5 stars',"Good quality artificial leather. Thanks to dual side, it makes easier to adept with every outfit. Accurate size for all the age groups. It is durable product as I'm using it from past 12 months."
+'B06XHGX8KZ','Fine and Super worth for money','5.0 out of 5 stars','Fine and Super worth for money i need one more'
